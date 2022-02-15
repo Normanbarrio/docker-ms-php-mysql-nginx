@@ -5641,7 +5641,7 @@ pre {
 }
 
 .blog-default-banner {
-	background-image: url('../img/blog-01.jpg');
+	background-image: url('../img/peaton.jpg');
 }
 
 .intro-banner {
@@ -11835,12 +11835,16 @@ a.full-width-icon:hover .social-text {
 	}
 
 	h2 {
-		font-size: 3rem;
+		font-size: 1.7rem;
 	}
 
 	h3 {
-		font-size: 1.875rem;
+		font-size: 1rem;
 	}
+	h4 {
+		font-size: 0.8rem;
+	}
+
 
 	.visual-title {
 		font-size: 3.375rem;
